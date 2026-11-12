@@ -1,6 +1,6 @@
-## Hi, I'm Agneevo Mukherjee
+# Hi, I'm Agneevo Mukherjee
 
-# Data Analytics | Business, Operations and Sustainability
+### Data Analytics | Business, Operations and Sustainability
 
 Professional with an MSc in Data Science for Business from the University of Bristol. I have nearly 5 years of experience covering building automation, telecommunications and project analytics.
 
