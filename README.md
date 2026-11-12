@@ -2,7 +2,7 @@
 
 ### Data Analytics | Business, Operations and Sustainability
 
-Professional with an MSc in Data Science for Business from the University of Bristol. I have nearly 5 years of experience covering building automation, telecommunications and project analytics.
+Data professional with an MSc in Data Science for Business from the University of Bristol. I have nearly 5 years of experience covering building automation, telecommunications and project analytics.
 
 Currently situated in Kolkata, West Bengal, India.
 
@@ -10,7 +10,7 @@ My primary interests lie in ESG and sustainability analytics, climate data and c
 
 My technical toolkit includes Python, R, SQL and Tableau.
 
-Open to opportunities in ESG, Data Science, Sustainability and Data Analytics
+Open to opportunities in ESG, Data Science, Sustainability and Data Analytics.
 
 [LinkedIn](https://www.linkedin.com/in/agneevo-mukherjee/)
 
